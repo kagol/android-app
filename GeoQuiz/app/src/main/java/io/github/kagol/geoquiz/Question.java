@@ -9,7 +9,7 @@ public class Question {
     private boolean mAnswerTrue;
 
     public Question(int textResId, boolean answerTrue) {
-        mTextId =textResId;
+        mTextId = textResId;
         mAnswerTrue = answerTrue;
     }
 
