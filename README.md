@@ -1,3 +1,3 @@
 # android-app
 
-![GeoQuiz](./GeoQuiz.png "GeoQuiz")
+![GeoQuiz](./GeoQuizDemo.png "GeoQuiz")
